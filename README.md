@@ -1,4 +1,4 @@
-# Node Template Server
+# Home work for 61 lesson
 
 ## Опис
 Сервер, що використовує шаблонізатори PUG та EJS для представлення сторінок.
