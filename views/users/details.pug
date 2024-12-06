@@ -1,0 +1,10 @@
+doctype html
+html
+  head
+    title= title
+    link(rel="stylesheet", href="/styles.css")
+  body
+    h1= title
+    p Им'я: #{user.name}
+    p Пошта: #{user.email}
+    a(href="/users") Назад
